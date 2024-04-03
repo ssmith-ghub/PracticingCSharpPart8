@@ -1,0 +1,15 @@
+C:\Users\steph\source\repos\PracticingC#Part8\PracticingC#Part8\bin\Debug\net8.0\PracticingC#Part8.exe
+C:\Users\steph\source\repos\PracticingC#Part8\PracticingC#Part8\bin\Debug\net8.0\PracticingC#Part8.deps.json
+C:\Users\steph\source\repos\PracticingC#Part8\PracticingC#Part8\bin\Debug\net8.0\PracticingC#Part8.runtimeconfig.json
+C:\Users\steph\source\repos\PracticingC#Part8\PracticingC#Part8\bin\Debug\net8.0\PracticingC#Part8.dll
+C:\Users\steph\source\repos\PracticingC#Part8\PracticingC#Part8\bin\Debug\net8.0\PracticingC#Part8.pdb
+C:\Users\steph\source\repos\PracticingC#Part8\PracticingC#Part8\obj\Debug\net8.0\PracticingC#Part8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steph\source\repos\PracticingC#Part8\PracticingC#Part8\obj\Debug\net8.0\PracticingC#Part8.AssemblyInfoInputs.cache
+C:\Users\steph\source\repos\PracticingC#Part8\PracticingC#Part8\obj\Debug\net8.0\PracticingC#Part8.AssemblyInfo.cs
+C:\Users\steph\source\repos\PracticingC#Part8\PracticingC#Part8\obj\Debug\net8.0\PracticingC#Part8.csproj.CoreCompileInputs.cache
+C:\Users\steph\source\repos\PracticingC#Part8\PracticingC#Part8\obj\Debug\net8.0\PracticingC#Part8.sourcelink.json
+C:\Users\steph\source\repos\PracticingC#Part8\PracticingC#Part8\obj\Debug\net8.0\PracticingC#Part8.dll
+C:\Users\steph\source\repos\PracticingC#Part8\PracticingC#Part8\obj\Debug\net8.0\refint\PracticingC#Part8.dll
+C:\Users\steph\source\repos\PracticingC#Part8\PracticingC#Part8\obj\Debug\net8.0\PracticingC#Part8.pdb
+C:\Users\steph\source\repos\PracticingC#Part8\PracticingC#Part8\obj\Debug\net8.0\PracticingC#Part8.genruntimeconfig.cache
+C:\Users\steph\source\repos\PracticingC#Part8\PracticingC#Part8\obj\Debug\net8.0\ref\PracticingC#Part8.dll
